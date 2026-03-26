@@ -11,3 +11,5 @@ This project automatically organizes files in a folder by file type.
 ## How to run
 ```bash
 python3 main.py
+
+#Updated feature branch
